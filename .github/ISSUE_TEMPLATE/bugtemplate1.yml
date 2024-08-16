@@ -1,7 +1,7 @@
-name: Bug Report
-description: File a bug report.
+name: Bug Report Form
+description: File a bug report with this form
 title: "[Bug]: "
-labels: ["bug", "triage"]
+labels: ["community"]
 projects: ["flynntsang/projects/1"]
 assignees:
   - flynntsang
