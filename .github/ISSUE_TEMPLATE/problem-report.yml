@@ -1,6 +1,6 @@
-name: Bug Report Form
-description: File a bug report with this form
-title: "[Bug]: "
+name: Problem Report Form
+description: File a problem report with this form
+title: "[problem report]: "
 labels: ["community"]
 projects: ["flynntsang/projects/1"]
 assignees:
@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to fill out this problem report!
   - type: input
     id: contact
     attributes:
