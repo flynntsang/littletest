@@ -24,7 +24,7 @@ body:
       label: What happened?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: "A bug happened!"
+      value: "I tried something that didn't work"
     validations:
       required: true
   - type: dropdown
