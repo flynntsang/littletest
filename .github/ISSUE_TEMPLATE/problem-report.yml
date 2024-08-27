@@ -1,6 +1,6 @@
 name: Problem Report Form
 description: File a problem report with this form
-title: "[problem report]: "
+title: "[problem report] "
 labels: ["community"]
 projects: ["flynntsang/projects/1"]
 assignees:
