@@ -1,10 +1,11 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[Feature Request]: "
-labels: '[community]'
-projects: 'Open Source Core'
-assignees: 'flynntsang'
+title: "[Feature Request] "
+labels: ["community"]
+projects: ["flynntsang/projects/1"]
+assignees:
+  - flynntsang
 
 ---
 
